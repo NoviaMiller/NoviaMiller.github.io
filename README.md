@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Welcome to my personal website!
 ## introduction
 This is Novia Miller, a Chinese college student majored in software engineering.
