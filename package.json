@@ -1,0 +1,21 @@
+{
+  "name": "novia-notes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "一个渲染 Markdown 的笔记库，动森（Animal Crossing）治愈系风格，部署于 GitHub Pages。",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.7"
+  }
+}
